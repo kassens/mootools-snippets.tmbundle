@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:items}.map(function(${2:${1/(^(.*)s$)|.*/(?1:$2:item)/}}){
+	$0
+});</string>
+	<key>name</key>
+	<string>map</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>map</string>
+	<key>uuid</key>
+	<string>9E24CFA1-C4DD-4C56-A284-8395C7197B0B</string>
+</dict>
+</plist>

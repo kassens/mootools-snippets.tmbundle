@@ -6,8 +6,13 @@
 	<string>MooTools Snippets</string>
 	<key>ordering</key>
 	<array>
-		<string>DFC801A6-DBBD-4723-AFFB-43FF393BC2EC</string>
 		<string>E501A425-ABB1-4DD9-8BA5-3C608AC31545</string>
+		<string>DFC801A6-DBBD-4723-AFFB-43FF393BC2EC</string>
+		<string>14DFD049-6867-4B04-9B8C-9149011AC29D</string>
+		<string>11F6EAB8-296A-4CA5-B0EC-EE26364C71C2</string>
+		<string>1C64CDFA-7D95-4EE6-825B-FBC122A80F47</string>
+		<string>9E24CFA1-C4DD-4C56-A284-8395C7197B0B</string>
+		<string>DC7F50A6-4E0E-4F72-83C6-FB2CDF04DA8F</string>
 	</array>
 	<key>uuid</key>
 	<string>6EDA06E6-5B92-4D96-A90F-22E411783C10</string>
