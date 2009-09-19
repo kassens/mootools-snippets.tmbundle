@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>MooTools Snippets</string>
+	<key>ordering</key>
+	<array>
+		<string>DFC801A6-DBBD-4723-AFFB-43FF393BC2EC</string>
+		<string>E501A425-ABB1-4DD9-8BA5-3C608AC31545</string>
+	</array>
+	<key>uuid</key>
+	<string>6EDA06E6-5B92-4D96-A90F-22E411783C10</string>
+</dict>
+</plist>

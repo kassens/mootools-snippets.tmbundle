@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:${TM_FILENAME/(.*)\..*/\u$1/}} = new Class({
+
+	initialize: function($2){
+		$0
+	}
+
+};</string>
+	<key>name</key>
+	<string>class</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>class</string>
+	<key>uuid</key>
+	<string>DFC801A6-DBBD-4723-AFFB-43FF393BC2EC</string>
+</dict>
+</plist>
