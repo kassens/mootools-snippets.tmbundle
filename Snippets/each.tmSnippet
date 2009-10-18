@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:items}.each(function(${2:${1/(^(.*)s$)|.*/(?1:$2:item)/}}){
+	<string>${1:items}.each(function(${2:${1/(.*?([^\.]+)s$)|.*/(?1:$2:item)/}}){
 	$0
 });</string>
 	<key>name</key>

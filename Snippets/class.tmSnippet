@@ -3,8 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>var ${1:${TM_FILENAME/(.*)\..*/\u$1/}} = new Class({
-
+	<string>${1/(^[^\.]*$)|.*/(?1:var )/}${1:${TM_FILENAME/(.*)\..*/\u$1/}} = new Class({
+${1/^(.*?)\.[^\.]*$|.*/(?1:
+	Extends\: $1,
+)/}
 	initialize: function($2){
 		$0
 	}
